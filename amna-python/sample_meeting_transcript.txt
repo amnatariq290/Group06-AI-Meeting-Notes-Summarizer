@@ -1,0 +1,23 @@
+Meeting: Weekly Logistics Operations Sync
+Date: 2026-09-01
+Attendees: Ahmed (Operations Manager), Sara (Fleet Coordinator), Bilal (Warehouse Lead), Nida (Customer Support Lead)
+
+Ahmed: Good morning everyone. Let's start with the fleet update. Sara, how are we doing on delivery times this week?
+
+Sara: We had a 12% improvement in average delivery time compared to last week. However, three trucks are currently out for maintenance, which is putting pressure on the remaining fleet. I need approval to rent two temporary vehicles for the next two weeks.
+
+Ahmed: Approved. Please send me the rental quotes by tomorrow so I can sign off on the budget.
+
+Bilal: On the warehouse side, we're seeing a backlog in the Karachi facility. Inventory mismatches have caused delays in dispatching about 40 orders. I've assigned two staff members to do a full stock reconciliation, and we expect it to be resolved by Thursday.
+
+Nida: Customer complaints are up 8% this week, mostly related to late deliveries in the Karachi region, which lines up with what Bilal just mentioned. I'll prepare a customer communication template to proactively notify affected customers about delays.
+
+Ahmed: Good. Let's make that a priority. Bilal, please share the reconciliation report with Nida once it's done so she can update customers accurately.
+
+Sara: One more thing — the new route optimization software trial starts next Monday. I'll need someone from IT to help with the initial setup.
+
+Ahmed: I'll loop in IT and get back to you by end of day. Let's reconvene next Tuesday to review progress on all these items. Thanks everyone.
+
+Bilal: Sounds good, thanks.
+
+Nida: Will do, thanks all.
